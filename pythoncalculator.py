@@ -17,5 +17,5 @@ while(1):
             elif arg == "/":
                 print("Division= ",num1/num2)
         else:
-            print("OOPS, you entered invalid operation")
+            print("OOPS, you entered invalid Operation")
     cal(option)
